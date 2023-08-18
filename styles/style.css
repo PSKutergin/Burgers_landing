@@ -160,6 +160,7 @@ body {
     background-position: top center;
     background-size: initial;
     padding-bottom: 180px;
+    background-repeat: no-repeat;
 }
 
 .why-items {
@@ -322,7 +323,7 @@ body {
     color: white;
 }
 
-.order-form-input .button {
+.order-form-inputs .button {
     width: 344px;
     height: 62px;
 }
